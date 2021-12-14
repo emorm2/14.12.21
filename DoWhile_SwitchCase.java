@@ -28,6 +28,7 @@ public class Main {
             System.out.println("one");
         if (number == 2)
             System.out.println("two");*/
+            
         switch (number) {
             case 0:
                 System.out.println("zero");
